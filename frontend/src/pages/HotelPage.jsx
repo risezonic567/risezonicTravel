@@ -83,7 +83,7 @@ export default function HotelPage() {
   return (
     <>
     <Helmet>
-      <link rel="canonical" href="https://risezonictravel.com/hotels" />
+      <link rel="canonical" href="https://7upflight-ticket.com/hotels" />
     </Helmet>
     <div className="relative min-h-screen flex items-center justify-center p-4">
       {/* <video

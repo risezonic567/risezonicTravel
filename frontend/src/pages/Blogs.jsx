@@ -12,7 +12,7 @@ export default function Blogs() {
           name="description"
           content="Explore Risezonic Travel’s blog for travel tips, destination guides, holiday ideas, and trip inspiration. Learn from expert insights and real travel stories."
         />
-        <link rel="canonical" href="https://www.risezonictravel.com/blogs" />
+        <link rel="canonical" href="https://www.7upflight-ticket.com/blogs" />
       </Helmet>
       {/* Travel Blog & Travel Guides */}
     </div>

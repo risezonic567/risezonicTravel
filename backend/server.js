@@ -17,8 +17,8 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://risezonictravel.com",
-  "https://www.risezonictravel.com"
+  "https://7upflight-ticket.com",
+  "https://www.7upflight-ticket.com"
 ];
 
 app.use(cors({
@@ -56,7 +56,7 @@ import jwt from "jsonwebtoken"; // ensure availability if used elsewhere ok
 app.use(express.json());
 app.use(cookieParser());
 
-// Base Route Test karne ke liye (Aap browser me api.risezonictravel.com kholkar check kar sakte hain)
+// Base Route Test karne ke liye (Aap browser me api.7upflight-ticket.com kholkar check kar sakte hain)
 app.get("/", (req, res) => {
   res.send("Risezonic Travel API is Running Successfully Live!");
 });

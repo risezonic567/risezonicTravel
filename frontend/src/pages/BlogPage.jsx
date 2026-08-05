@@ -36,7 +36,7 @@ export default function BlogPage() {
         <title>Risezonic Travel Blog | Tips & Inspiration </title>
         <meta name="description" content="Discover travel blogs from Risezonic Travel. Read expert tips, destination guides, and real travel stories to plan your next family holiday, honeymoon, or adventure trip across India." />
         <meta name="keywords" content="destination guides," />
-        <link rel="canonical" href="https://www.risezonictravel.com/blog" />
+        <link rel="canonical" href="https://www.7upflight-ticket.com/blog" />
       </Helmet>
 
       {/* HERO SECTION - Pehle se better introduction */}

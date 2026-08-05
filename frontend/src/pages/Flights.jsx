@@ -52,7 +52,7 @@ const FilterSection = React.memo(({ title, children, onReset }) => (
 
 const API_BASE = window.location.hostname === "localhost"
   ? "http://localhost:7000"
-  : "https://www.risezonictravel.com"; // Live hone par ye kaam aayega
+  : "https://www.7upflight-ticket.com"; // Live hone par ye kaam aayega
 
 function Flights() {
   const location = useLocation();

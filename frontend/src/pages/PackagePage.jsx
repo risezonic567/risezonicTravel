@@ -39,7 +39,7 @@ export default function PackagePage() {
         <title></title>
         <meta name="description" content="" />
         <meta name="keywords" content="destination guides," />
-        <link rel="canonical" href="https://www.risezonictravel.com/package" />
+        <link rel="canonical" href="https://www.7upflight-ticket.com/package" />
       </Helmet>
 
       <div className="bg-blue-950 pt-40 px-4 text-center">

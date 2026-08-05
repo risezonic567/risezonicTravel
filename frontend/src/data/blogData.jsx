@@ -7,7 +7,7 @@ export const blogPosts = [
     metadescription:
       "Looking for the Best Travel Agency in Delhi NCR? Explore affordable international & domestic holiday packages, customized tours, honeymoon trips, family vacations, and luxury travel experiences with Risezonic Travel.",
     canonical:
-      "https://www.risezonictravel.com/blog/best-travel-agency-in-delhi-ncr-for-international-domestic-holiday-packages",
+      "https://www.7upflight-ticket.com/blog/best-travel-agency-in-delhi-ncr-for-international-domestic-holiday-packages",
 
     title:
       "BEST TRAVEL AGENCY IN DELHI NCR FOR INTERNATIONAL & DOMESTIC HOLIDAY PACKAGES",
@@ -300,7 +300,7 @@ With Holiday Packages Delhi NCR you can plan a vacation which is affordable for 
     metadescription:
       "Explore the best honeymoon destinations near Delhi for couples in 2026. Discover romantic hill stations, luxury lake cities, peaceful retreats, and affordable weekend getaways with Risezonic Travel.",
     canonical:
-      "https://www.risezonictravel.com/blog/top-honeymoon-destinations-near-delhi-for-couples-in-2026",
+      "https://www.7upflight-ticket.com/blog/top-honeymoon-destinations-near-delhi-for-couples-in-2026",
 
     title: "TOP HONEYMOON DESTINATIONS NEAR DELHI FOR COUPLES IN 2026",
     category: "Honeymoon Travel",
@@ -544,7 +544,7 @@ Honeymoon planning is one of the many exciting, newlywed experiences. Fortunatel
     metadescription:
       "Explore the best international destinations from India in 2026 including Thailand, Dubai, Bali, Singapore, Maldives, Switzerland, Vietnam, and Turkey with affordable foreign tour packages.",
     canonical:
-      "https://www.risezonictravel.com/blog/best-international-places-to-visit-from-india-in-2026",
+      "https://www.7upflight-ticket.com/blog/best-international-places-to-visit-from-india-in-2026",
 
     title: "BEST INTERNATIONAL PLACES TO VISIT FROM INDIA IN 2026",
     category: "International Travel",
@@ -766,7 +766,7 @@ Whatever you're looking for in a travel companion, pick the best of the best for
     metadescription:
       "Learn how to book cheap airline tickets online in 2026 with smart booking strategies, timing tips, discount stacking, fare alerts, and budget travel hacks.",
     canonical:
-      "https://www.risezonictravel.com/blog/how-to-book-cheap-airline-tickets-online-in-2026",
+      "https://www.7upflight-ticket.com/blog/how-to-book-cheap-airline-tickets-online-in-2026",
 
     title: "HOW TO BOOK CHEAP AIRLINE TICKETS ONLINE IN 2026",
     category: "Air Travel",
@@ -956,7 +956,7 @@ Happy Travels!
   metadescription:
     "Discover Corporate Travel Management Services in Gurugram. Learn about business travel solutions, CTM, MICE travel services, expense management, travel policies, and corporate travel planning.",
   canonical:
-    "https://www.risezonictravel.com/blog/corporate-travel-management-services-in-gurugram-complete-business-travel-guide",
+    "https://www.7upflight-ticket.com/blog/corporate-travel-management-services-in-gurugram-complete-business-travel-guide",
 
   title:
     "CORPORATE TRAVEL MANAGEMENT SERVICES IN GURUGRAM: COMPLETE BUSINESS TRAVEL GUIDE",
@@ -1008,7 +1008,7 @@ Nowadays ,efficient business travel is no longer a luxury-it's a necessity. Ever
 </p>
 
 <p class="mt-3">
-Some companies usually operate the <a class="text-blue-500 font-bold href="https://risezonictravel.com/blog">travel management services</a> inside the organization itself, and some outsource it.
+Some companies usually operate the <a class="text-blue-500 font-bold href="https://7upflight-ticket.com/blog">travel management services</a> inside the organization itself, and some outsource it.
 </p>
 
 <p class="mt-3">
@@ -1054,7 +1054,7 @@ Gurugram’s dynamic business environment results in a lot of travel. Employees 
 </p>
 
 <p class="mt-3">
-Organizations will be able to work with travel solutions providers offering <a class="font-bold text-blue-600" href="https://risezonictravel.com/">
+Organizations will be able to work with travel solutions providers offering <a class="font-bold text-blue-600" href="https://7upflight-ticket.com/">
   Corporate Travel Solutions Delhi
 </a> NCR to:
 </p>

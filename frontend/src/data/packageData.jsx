@@ -7,7 +7,7 @@ export const packagePosts = [
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/kashmir-tour-packages-customized-trips-holidays",
+      "https://www.7upflight-ticket.com/package/kashmir-tour-packages-customized-trips-holidays",
 
     title:
       "Kashmir Tour Packages - Customized Trips & Holidays",
@@ -95,7 +95,7 @@ export const packagePosts = [
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/himachal-pradesh-tour-packages-customized-holiday-trips",
+      "https://www.7upflight-ticket.com/package/himachal-pradesh-tour-packages-customized-holiday-trips",
 
     title:
       "Himachal Pradesh Tour Packages - Customized Holiday Trips",
@@ -185,7 +185,7 @@ export const packagePosts = [
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/kerala-tour-packages",
+      "https://www.7upflight-ticket.com/package/kerala-tour-packages",
 
     title:
       "Kerala Tour Packages",
@@ -308,7 +308,7 @@ export const packagePosts = [
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/goa-tour-packages",
+      "https://www.7upflight-ticket.com/package/goa-tour-packages",
 
     title:
       "Goa Tour Packages",
@@ -430,7 +430,7 @@ The focus of our Goa trip plans is to give tourists an experience that is both c
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/uttarakhand-tour-packages",
+      "https://www.7upflight-ticket.com/package/uttarakhand-tour-packages",
 
     title:
       "Uttarakhand Tour Packages",
@@ -527,7 +527,7 @@ The focus of our Goa trip plans is to give tourists an experience that is both c
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/andaman-tour-packages-customized-holiday-trips",
+      "https://www.7upflight-ticket.com/package/andaman-tour-packages-customized-holiday-trips",
 
     title:
       "Andaman Tour Packages - Customized Holiday Trips",
@@ -613,7 +613,7 @@ The focus of our Goa trip plans is to give tourists an experience that is both c
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/rajasthan-tour-packages",
+      "https://www.7upflight-ticket.com/package/rajasthan-tour-packages",
 
     title:
       "Rajasthan Tour Packages",
@@ -694,7 +694,7 @@ The focus of our Goa trip plans is to give tourists an experience that is both c
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/bali-tour-packages",
+      "https://www.7upflight-ticket.com/package/bali-tour-packages",
 
     title:
       "Bali Tour Packages",
@@ -829,7 +829,7 @@ Choose your Bali tour packages and plan your trip based on your travel preferenc
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/vietnam-tour-packages",
+      "https://www.7upflight-ticket.com/package/vietnam-tour-packages",
 
     title:
       "Vietnam Tour Packages",
@@ -957,7 +957,7 @@ Explore our Vietnam tour packages from below covering North, Central, and South 
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/singapore-tour-packages",
+      "https://www.7upflight-ticket.com/package/singapore-tour-packages",
 
     title:
       "Singapore Tour Packages",
@@ -1089,7 +1089,7 @@ Here are some facts for travelers to consider before making the trip to Singapor
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/maldives-tour-packages",
+      "https://www.7upflight-ticket.com/package/maldives-tour-packages",
 
     title:
       "Maldives Tour Packages",
@@ -1199,7 +1199,7 @@ Here are some facts for travelers to consider before making the trip to Singapor
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/thailand-tour-packages",
+      "https://www.7upflight-ticket.com/package/thailand-tour-packages",
 
     title:
       "Thailand Tour Packages",
@@ -1307,7 +1307,7 @@ Here are some facts for travelers to consider before making the trip to Singapor
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/bhutan-tour-packages",
+      "https://www.7upflight-ticket.com/package/bhutan-tour-packages",
 
     title:
       "Bhutan Tour Packages - Plan Your Perfect Bhutan Trip",
@@ -1392,7 +1392,7 @@ Here are some facts for travelers to consider before making the trip to Singapor
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/srilanka-tour-packages",
+      "https://www.7upflight-ticket.com/package/srilanka-tour-packages",
 
     title:
       "Sri Lanka Tour Packages - Customizable Tour Packages & Trips",
@@ -1484,7 +1484,7 @@ Here are some facts for travelers to consider before making the trip to Singapor
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/malaysia-tour-packages",
+      "https://www.7upflight-ticket.com/package/malaysia-tour-packages",
 
     title:
       "Malaysia Tour Packages - Customizable Tour Packages & Trips",
@@ -1587,7 +1587,7 @@ Ideal Trip Duration: 4 - 8 days (Kuala Lumpur, Genting Highlands, Langkawi). Cov
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/spiti-tour-packages",
+      "https://www.7upflight-ticket.com/package/spiti-tour-packages",
 
     title:
       "Spiti Tour Packages – Experience the Unblemished Flanks of the Himalayas",
@@ -1671,7 +1671,7 @@ Ideal Trip Duration: 4 - 8 days (Kuala Lumpur, Genting Highlands, Langkawi). Cov
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/meghalaya-tour-packages",
+      "https://www.7upflight-ticket.com/package/meghalaya-tour-packages",
 
     title:
       "Meghalaya Tour Packages – Discover the Enchanting Beauty of the East Kingdom",
@@ -1763,7 +1763,7 @@ Ideal Trip Duration: 4 - 8 days (Kuala Lumpur, Genting Highlands, Langkawi). Cov
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/tamil-nadu-tour-packages",
+      "https://www.7upflight-ticket.com/package/tamil-nadu-tour-packages",
 
     title:
       "Tamil Nadu Tour Packages – Discover the Enchanting Beauty of the East Kingdom",
@@ -1864,7 +1864,7 @@ Ideal Trip Duration: 4 - 8 days (Kuala Lumpur, Genting Highlands, Langkawi). Cov
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/maharashtra-tour-packages",
+      "https://www.7upflight-ticket.com/package/maharashtra-tour-packages",
 
     title:
       "Maharashtra Tour Packages – Discover the Enchanting Beauty of the East Kingdom",
@@ -1964,7 +1964,7 @@ Our Maharashtra tour packages welcome families, couples, honeymooners, solo adve
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/arunachal-pradesh-tour-packages",
+      "https://www.7upflight-ticket.com/package/arunachal-pradesh-tour-packages",
 
     title:
       "Packages for Travelling to Arunachal Pradesh",
@@ -2057,7 +2057,7 @@ Along winding mountain roads, you'll find clouds rolling down next to you and po
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/sikkim-tour-packages-customized-holiday-trips",
+      "https://www.7upflight-ticket.com/package/sikkim-tour-packages-customized-holiday-trips",
 
     title:
       "Sikkim Tour Packages - Customized Holiday Trips",
@@ -2145,7 +2145,7 @@ Along winding mountain roads, you'll find clouds rolling down next to you and po
     metadescription:
       "",
     canonical:
-      "https://www.risezonictravel.com/package/karnataka-tour-packages-customized-holiday-trips",
+      "https://www.7upflight-ticket.com/package/karnataka-tour-packages-customized-holiday-trips",
 
     title:
       "Karnataka Tour Packages - Customized Holiday Trips",
