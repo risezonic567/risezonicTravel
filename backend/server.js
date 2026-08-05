@@ -35,7 +35,7 @@ app.use(cors({
   },
 
   credentials: true
-}));
+}))
 
 app.use(
   session({
@@ -51,7 +51,7 @@ app.use(
 
 app.use(passport.initialize());
 app.use(passport.session());
-import jwt from "jsonwebtoken"; // ensure availability if used elsewhere ok
+import jwt from "jsonwebtoken"
 
 app.use(express.json());
 app.use(cookieParser());
