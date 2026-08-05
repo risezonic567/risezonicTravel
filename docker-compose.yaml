@@ -1,0 +1,25 @@
+version: "3.9"
+
+services:
+
+  backend:
+    build: ./backend
+    container_name: risezonictravel_backend
+    restart: always
+
+    ports:
+      - "7000:7000"
+
+    env_file:
+      - ./backend/.env
+
+  frontend:
+    build: ./frontend
+    container_name: risezonictravel_frontend
+    restart: always
+
+    ports:
+      - "6100:80"
+
+    depends_on:
+      - backend
