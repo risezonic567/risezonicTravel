@@ -83,14 +83,14 @@ export default function HotelPage() {
   return (
     <>
     <Helmet>
-      <link rel="canonical" href="https://7upflight-ticket.com/hotels" />
+      <link rel="canonical" href="http://7upflight-ticket.com/hotels" />
     </Helmet>
     <div className="relative min-h-screen flex items-center justify-center p-4">
       {/* <video
         autoPlay loop muted playsInline
         className="absolute inset-0 w-full h-full object-cover"
       >
-        <source src="https://raw.githubusercontent.com/Ashish-Kaintura/risezomic-travel2025/main/src/video/Risezonic%20Travel%20website%20video.mp4" type="video/mp4" />
+        <source src="http://raw.githubusercontent.com/Ashish-Kaintura/risezomic-travel2025/main/src/video/Risezonic%20Travel%20website%20video.mp4" type="video/mp4" />
       </video> */}
       <img src="/images/Travel Hotel Banner.jpg.jpeg" alt="Travel Hotel Banner" className="absolute inset-0 w-full h-full object-cover"/>
       <div className="absolute inset-0 bg-black/40"></div>

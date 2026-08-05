@@ -8,7 +8,7 @@
         location: "Maldives, Central Province",
         price: 340,
         rating: 4.9,
-        image: "https://images.unsplash.com/photo-1540541338287-41700207dee6?auto=format&fit=crop&w=600&q=80",
+        image: "http://images.unsplash.com/photo-1540541338287-41700207dee6?auto=format&fit=crop&w=600&q=80",
         tags: ["Luxury", "Spa", "All-Inclusive"]
       },
       {
@@ -17,7 +17,7 @@
         location: "New York, USA",
         price: 215,
         rating: 4.7,
-        image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+        image: "http://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
         tags: ["City Center", "Business", "Gym"]
       },
       {
@@ -26,7 +26,7 @@
         location: "New York, USA",
         price: 215,
         rating: 4.7,
-        image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+        image: "http://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
         tags: ["City Center", "Business", "Gym"]
       },
       {
@@ -35,7 +35,7 @@
         location: "New York, USA",
         price: 215,
         rating: 4.7,
-        image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+        image: "http://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
         tags: ["City Center", "Business", "Gym"]
       },
       {
@@ -44,7 +44,7 @@
         location: "New York, USA",
         price: 215,
         rating: 4.7,
-        image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+        image: "http://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
         tags: ["City Center", "Business", "Gym"]
       }
     ];

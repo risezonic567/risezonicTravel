@@ -10,7 +10,7 @@ export default function WhyChooseUs(){
       {/* <section className="relative h-[80vh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.unsplash.com/photo-1436491865332-7a61a109c055?auto=format&fit=crop&q=80&w=2070" 
+            src="http://images.unsplash.com/photo-1436491865332-7a61a109c055?auto=format&fit=crop&q=80&w=2070" 
             alt="Travel BG" 
             className="w-full h-full object-cover opacity-40"
           />

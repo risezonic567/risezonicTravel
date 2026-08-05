@@ -172,13 +172,13 @@ export default function WorldWideDestinations() {
 
           <div className="flex flex-col gap-6">
             <img
-              src="https://i.postimg.cc/xdchzHjk/Your-Path-to-the-Best-Flight-Deals-1.jpg"
+              src="http://i.postimg.cc/xdchzHjk/Your-Path-to-the-Best-Flight-Deals-1.jpg"
               alt="Airport Traveler"
               className="rounded-br-3xl object-cover w-full h-64 md:h-72 shadow-lg hover:scale-105 transition"
             />
 
             <img
-              src="https://i.postimg.cc/VNdpCMsN/Your-Path-to-the-Best-Flight-Deals-2.jpg"
+              src="http://i.postimg.cc/VNdpCMsN/Your-Path-to-the-Best-Flight-Deals-2.jpg"
               alt="Airplane in Sky"
               className="rounded-br-3xl object-cover w-full h-64 md:h-72 shadow-lg hover:scale-105 transition"
             />

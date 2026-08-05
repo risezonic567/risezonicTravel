@@ -8,7 +8,7 @@ const testimonials = [
     location: "New Delhi",
     text: "Risezonic helped me book my last-minute flight to London at a price I couldn't find anywhere else. The support team was available even at 2 AM!",
     rating: 5,
-    image: "https://randomuser.me/api/portraits/men/32.jpg"
+    image: "http://randomuser.me/api/portraits/men/32.jpg"
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const testimonials = [
     location: "Ahmedabad",
     text: "The Dubai package was perfectly managed. From visa assistance to hotel transfers, everything was seamless. Truly the best travel agency.",
     rating: 5,
-    image: "https://randomuser.me/api/portraits/women/44.jpg"
+    image: "http://randomuser.me/api/portraits/women/44.jpg"
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const testimonials = [
     location: "Gurugram",
     text: "I was skeptical about the low prices for USA flights, but Risezonic is legit. Saved almost ₹15,000 on my round trip. Highly recommended!",
     rating: 4,
-    image: "https://randomuser.me/api/portraits/men/85.jpg"
+    image: "http://randomuser.me/api/portraits/men/85.jpg"
   },
   {
     id: 4,
@@ -32,7 +32,7 @@ const testimonials = [
     location: "Canada",
     text: "Excellent service for NRI travelers. They understand the documentation required and make the booking process very easy.",
     rating: 5,
-    image: "https://randomuser.me/api/portraits/women/68.jpg"
+    image: "http://randomuser.me/api/portraits/women/68.jpg"
   }
 ];
 

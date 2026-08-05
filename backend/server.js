@@ -17,8 +17,8 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://7upflight-ticket.com",
-  "https://www.7upflight-ticket.com"
+  "http://7upflight-ticket.com",
+  "http://www.7upflight-ticket.com"
 ];
 
 app.use(cors({

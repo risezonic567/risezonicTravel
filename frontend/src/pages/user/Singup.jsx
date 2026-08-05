@@ -13,7 +13,7 @@ import "swiper/css/effect-fade";
 const API_BASE =
   window.location.hostname === "localhost"
     ? "http://localhost:7000"
-    : "https://www.7upflight-ticket.com"; // Live hone par ye kaam aayega
+    : "http://www.7upflight-ticket.com"; // Live hone par ye kaam aayega
 
 // axios.defaults.withCredentials = true;
 
@@ -228,7 +228,7 @@ export default function Signup() {
                 className="w-full flex items-center justify-center gap-2 border py-2 rounded-lg mb-3"
               >
                 <img
-                  src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png"
+                  src="http://cdn-icons-png.flaticon.com/512/2991/2991148.png"
                   className="w-5 h-5"
                 />
                 Login with Google
@@ -245,7 +245,7 @@ export default function Signup() {
                 style={{ textDecoration: "none" }}
               >
                 <img
-                  src="https://cdn-icons-png.flaticon.com/512/124/124010.png"
+                  src="http://cdn-icons-png.flaticon.com/512/124/124010.png"
                   className="w-5 h-5"
                   alt="FB"
                 />

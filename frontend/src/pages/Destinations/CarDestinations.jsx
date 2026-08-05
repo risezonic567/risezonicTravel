@@ -6,37 +6,37 @@ export default function CarDestination() {
     {
       name: "Delhi to Manali",
       desc: "Enjoy a scenic road trip to the mountains with breathtaking views.",
-      img: "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=600&q=80",
+      img: "http://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=600&q=80",
       alt: "Manali mountains road trip",
     },
     {
       name: "Mumbai to Goa",
       desc: "Experience the ultimate beach road trip with friends and music.",
-      img: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=600&q=80",
+      img: "http://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=600&q=80",
       alt: "Goa beach road trip",
     },
     {
       name: "Delhi to Rishikesh",
       desc: "Perfect weekend getaway with adventure and peaceful vibes.",
-      img: "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=600&q=80",
+      img: "http://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=600&q=80",
       alt: "Rishikesh river and mountains",
     },
     {
       name: "Jaipur to Udaipur",
       desc: "Explore royal Rajasthan with lakes, palaces, and culture.",
-      img: "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80",
+      img: "http://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80",
       alt: "Udaipur lake palace",
     },
     {
       name: "Leh Ladakh Road Trip",
       desc: "The most adventurous and thrilling high-altitude road trip.",
-      img: "https://images.unsplash.com/photo-1609947017136-9daf32a5eb16?auto=format&fit=crop&w=600&q=80",
+      img: "http://images.unsplash.com/photo-1609947017136-9daf32a5eb16?auto=format&fit=crop&w=600&q=80",
       alt: "Leh Ladakh highway",
     },
     {
       name: "Bangalore to Coorg",
       desc: "Drive through lush greenery and coffee plantations.",
-      img: "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=600&q=80",
+      img: "http://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=600&q=80",
       alt: "Coorg hills and greenery",
     },
   ];

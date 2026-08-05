@@ -39,7 +39,7 @@ export default function PackagePage() {
         <title></title>
         <meta name="description" content="" />
         <meta name="keywords" content="destination guides," />
-        <link rel="canonical" href="https://www.7upflight-ticket.com/package" />
+        <link rel="canonical" href="http://www.7upflight-ticket.com/package" />
       </Helmet>
 
       <div className="bg-blue-950 pt-40 px-4 text-center">
@@ -95,7 +95,7 @@ export default function PackagePage() {
             filtered.map(post => <PackageCard key={post.slug} post={post} />)
           ) : (
             <div className="col-span-full py-20 text-center">
-              <img src="https://cdn-icons-png.flaticon.com/512/6134/6134065.png" className="w-20 h-20 mx-auto opacity-20 mb-4" alt="not found" />
+              <img src="http://cdn-icons-png.flaticon.com/512/6134/6134065.png" className="w-20 h-20 mx-auto opacity-20 mb-4" alt="not found" />
               <p className="text-gray-400 text-xl font-medium">No packages found in this category.</p>
               <button onClick={() => { setSearchTerm(""); setCategory("All") }} className="mt-4 text-blue-600 font-bold underline">Reset Filters</button>
             </div>

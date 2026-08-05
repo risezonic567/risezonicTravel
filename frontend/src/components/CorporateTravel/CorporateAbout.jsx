@@ -23,7 +23,7 @@ export default function CorporateAbout() {
           <div className="relative">
             <div className="absolute -top-4 -left-4 w-72 h-72 bg-blue-100 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob"></div>
             <img 
-              src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1000" 
+              src="http://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1000" 
               alt="Corporate Headquarters" 
               className="relative rounded-2xl shadow-2xl z-10 object-cover h-[500px] w-full"
             />

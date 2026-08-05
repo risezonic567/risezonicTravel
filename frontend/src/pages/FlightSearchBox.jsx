@@ -19,7 +19,7 @@ import { useNavigate } from "react-router-dom";
 
 const API_BASE = window.location.hostname === "localhost" 
   ? "http://localhost:7000" 
-  : "https://www.7upflight-ticket.com";
+  : "http://www.7upflight-ticket.com";
 
 export default function FlightSearchBox() {
   const navigate = useNavigate();

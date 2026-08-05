@@ -61,7 +61,7 @@ const CorporateTravel = () => {
     <>
     
     <Helmet>
-      <link rel="canonical" href="https://7upflight-ticket.com/corporate-travel" />
+      <link rel="canonical" href="http://7upflight-ticket.com/corporate-travel" />
     </Helmet>
     <div className="bg-white font-sans text-slate-900">
     

@@ -36,7 +36,7 @@ export default function BlogPage() {
         <title>Risezonic Travel Blog | Tips & Inspiration </title>
         <meta name="description" content="Discover travel blogs from Risezonic Travel. Read expert tips, destination guides, and real travel stories to plan your next family holiday, honeymoon, or adventure trip across India." />
         <meta name="keywords" content="destination guides," />
-        <link rel="canonical" href="https://www.7upflight-ticket.com/blog" />
+        <link rel="canonical" href="http://www.7upflight-ticket.com/blog" />
       </Helmet>
 
       {/* HERO SECTION - Pehle se better introduction */}
@@ -107,7 +107,7 @@ export default function BlogPage() {
             filtered.map(post => <BlogCard key={post.slug} post={post} />)
           ) : (
             <div className="col-span-full py-20 text-center">
-                <img src="https://cdn-icons-png.flaticon.com/512/6134/6134065.png" className="w-20 h-20 mx-auto opacity-20 mb-4" alt="not found" />
+                <img src="http://cdn-icons-png.flaticon.com/512/6134/6134065.png" className="w-20 h-20 mx-auto opacity-20 mb-4" alt="not found" />
                 <p className="text-gray-400 text-xl font-medium">No articles found in this category.</p>
                 <button onClick={() => {setSearchTerm(""); setCategory("All")}} className="mt-4 text-blue-600 font-bold underline">Reset Filters</button>
             </div>

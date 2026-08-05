@@ -9,7 +9,7 @@ export default function CarPage() {
   return (
     <>
     <Helmet>
-      <link rel="canonical" href="https://7upflight-ticket.com/car" />
+      <link rel="canonical" href="http://7upflight-ticket.com/car" />
     </Helmet>
     <section className="relative min-h-screen w-full font-sans antialiased">
 

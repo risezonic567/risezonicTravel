@@ -21,7 +21,7 @@ const getCabinPrices = async (
     cabinClasses.map(async (cabin) => {
       try {
         const response = await axios.post(
-          "https://api.duffel.com/air/offer_requests",
+          "http://api.duffel.com/air/offer_requests",
           {
             data: {
               slices: [
@@ -135,7 +135,7 @@ export const searchFlights = async (req, res) => {
 
     // STEP 1 → CREATE REQUEST
     const createResponse = await axios.post(
-      "https://api.duffel.com/air/offer_requests",
+      "http://api.duffel.com/air/offer_requests",
       {
         data: {
           slices,
@@ -160,7 +160,7 @@ export const searchFlights = async (req, res) => {
 
     // STEP 2 → FETCH OFFERS
     const offersResponse = await axios.get(
-      `https://api.duffel.com/air/offer_requests/${requestId}`,
+      `http://api.duffel.com/air/offer_requests/${requestId}`,
       {
         headers: {
           Authorization: `Bearer ${apiKey}`,
@@ -271,7 +271,7 @@ export const getAirports = async (req, res) => {
 
   try {
     const response = await axios.get(
-      `https://api.duffel.com/places/suggestions?query=${encodeURIComponent(query)}`,
+      `http://api.duffel.com/places/suggestions?query=${encodeURIComponent(query)}`,
       {
         headers: {
           Authorization: `Bearer ${apiKey}`,
